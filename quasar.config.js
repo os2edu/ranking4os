@@ -62,7 +62,7 @@ module.exports = configure(function (/* ctx */) {
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
       // 配置资源根目录
-      publicPath: 'gh-pages-quasar',
+      publicPath: 'ranking4os',
       // analyze: true,
       // env: {},
       // rawDefine: {}
